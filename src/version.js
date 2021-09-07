@@ -10,7 +10,7 @@ Para conocer la ultima versión de FX-BOT-73 entra al siguiente blog
 
 
 
-by Felixcrack
+by Miguel Mtz
 `
 
 }
